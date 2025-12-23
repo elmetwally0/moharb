@@ -4,7 +4,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%" />
 
-A fully custom-built **WordPress website** for SCADA Agency, including UI/UX design, theme customization, advanced layout structure, and optimized performance.
+A fully custom-built **WordPress website** for MOHARB Agency, including UI/UX design, theme customization, advanced layout structure, and optimized performance.
 
 ---
 
